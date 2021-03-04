@@ -1,5 +1,3 @@
-Fields
-
 Name\*
 
 First Name\*
